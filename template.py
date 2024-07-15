@@ -15,6 +15,9 @@ list_of_files = [
     f"src/{project_name}/pipeline/__init__.py",
     f"src/{project_name}/entity/__init__.py",
     f"src/{project_name}/constatnts/__init__.py",
+    "tests/__init__.py",
+    "tests/unit/__init__.py",
+    "tests/integration/__init__.py",
     "configs/config.yaml",
     "dvc.yaml", #Data Version Control
     "params.yaml",
