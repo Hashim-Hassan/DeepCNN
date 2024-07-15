@@ -1,0 +1,9 @@
+tensorflow
+dvc
+pandas
+notebook
+numpy
+matplotlib
+seaborn
+
+-e . # This will help to install packages present in local (src)
