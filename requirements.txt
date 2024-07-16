@@ -5,5 +5,10 @@ notebook
 numpy
 matplotlib
 seaborn
+python-box
+pyYAML
+tqdm
+ensure
+joblib
 
 -e . # This will help to install packages present in local (src)
